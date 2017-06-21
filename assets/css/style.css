@@ -276,11 +276,13 @@ input[type=submit] {
 
   #logo {
     width:100%;
+    margin-left:0;
   }
   
   nav {
     width:100%;
     text-align: center;
+    padding-right: 0%;
   }
 
 
@@ -297,6 +299,14 @@ input[type=submit] {
     padding-top:175px;
   }
 
+  .work {
+    width:100%;
+
+  }
+
+  .main-section {
+    width:60%;
+  }
 
 }
 
